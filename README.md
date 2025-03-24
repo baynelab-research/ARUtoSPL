@@ -1,0 +1,1 @@
+This repository includes a set of scripts to model third-octave bands' Sound Pressure Level measurements obtained using a SPL meter using acoustic files from Autonomous Recording Units, effectively formalising a workflow to infer SPL from ARUs·
